@@ -1,0 +1,30 @@
+{
+    "name": "order_srv",
+    "tags": ["order_srv", "order_info"],
+    "redis": {
+        "host": "110.40.153.208",
+        "port": 6635,
+        "db": 0
+    },
+    "mysql": {
+        "db": "mxshop_order_srv",
+        "host": "110.40.153.208",
+        "port": 3632,
+        "user": "root",
+        "password": "411220aas."
+    },
+    "goods_srv": {
+        "name": "goods_srv"
+    },
+    "inventory_srv": {
+        "name": "inventory_srv"
+    },
+    "consul": {
+        "host": "110.40.153.208",
+        "port": 8500
+    },
+    "rocketmq": {
+        "host":"110.40.153.208",
+        "port":8080
+    }
+}

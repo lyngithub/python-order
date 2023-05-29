@@ -1,0 +1,7 @@
+2022-09-28 16:50:38.934 | INFO     | __main__:serve:77 - 服务注册开始
+2022-09-28 16:50:38.934 | INFO     | common.register.consul:register:26 - check:
+2022-09-28 16:50:38.934 | INFO     | common.register.consul:register:27 - {'GRPC': '192.168.50.135:57223', 'GRPCUseTLS': False, 'Timeout': '5s', 'Interval': '5s', 'DeregisterCriticalServiceAfter': '15s'}
+2022-09-28 16:50:38.938 | INFO     | __main__:serve:84 - 服务注册成功
+2022-09-28 16:55:37.820 | INFO     | order_srv.handler.order:CartItemList:28 - 进入用户购物车列表服务
+2022-09-28 16:55:59.736 | INFO     | __main__:on_exit:27 - 注销 a0433508-3f0a-11ed-9f37-107b444b6655 服务
+2022-09-28 16:55:59.742 | INFO     | __main__:on_exit:29 - 注销成功

@@ -1,0 +1,6 @@
+2022-09-28 16:48:51.950 | INFO     | __main__:serve:77 - 服务注册开始
+2022-09-28 16:48:51.950 | INFO     | common.register.consul:register:26 - check:
+2022-09-28 16:48:51.950 | INFO     | common.register.consul:register:27 - {'GRPC': '192.168.50.135:57143', 'GRPCUseTLS': False, 'Timeout': '5s', 'Interval': '5s', 'DeregisterCriticalServiceAfter': '15s'}
+2022-09-28 16:48:51.955 | INFO     | __main__:serve:84 - 服务注册成功
+2022-09-28 16:48:56.771 | INFO     | __main__:on_exit:27 - 注销 607ecc0c-3f0a-11ed-ac66-107b444b6655 服务
+2022-09-28 16:48:56.775 | INFO     | __main__:on_exit:29 - 注销成功

@@ -1,0 +1,20 @@
+{
+    "name": "order_srv",
+    "tags": ["order_srv", "inventory_info"],
+    "redis": {
+        "host": "110.40.153.208",
+        "port": 6379,
+        "db": 0
+    },
+    "mysql": {
+        "db": "mxshop_order_srv",
+        "host": "110.40.153.208",
+        "port": 3306,
+        "user": "root",
+        "password": "123456"
+    },
+    "consul": {
+        "host": "192.168.50.236",
+        "port": 8500
+    }
+}
